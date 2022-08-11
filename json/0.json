@@ -1,0 +1,46 @@
+{
+    "name": "Cute Squares #1",
+    "symbol": "CS",
+    "description": "Cutest squares on Solana Network!!",
+    "image": "0.png",
+    "external_url": "YOUR WEBPAGE",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Border Color",
+            "value": "Cyan Border"
+        },
+        {
+            "trait_type": "Border Dots",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Example Text",
+            "value": "Example 6"
+        },
+        {
+            "trait_type": "Simple Draw",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Watermark",
+            "value": "Down Left"
+        },
+        {
+            "trait_type": "Border Mark",
+            "value": "Nothing"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
