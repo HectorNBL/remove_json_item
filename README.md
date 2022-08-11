@@ -11,7 +11,7 @@ python -v
 ## Start 
 1. In your terminal git clone the repo
 ```
-git clone PASTE_GIT_REPO_URL
+git clone https://github.com/HectorNBL/remove_json_item.git
 ```
 2. Open your IDE of choice. I used VScode and open the "remove_json_items" folder. 
 
