@@ -21,4 +21,8 @@ git clone https://github.com/HectorNBL/remove_json_item.git
 
 ```obj_to_del = ["name", "symbol"]``` #Here I am deleting the items: name and symbol
 
-5. Run the program. In VsCode there is a "Run Python File" at the top left. Check your files. 
+5. For nested items such as the ones in attributes in my sample files change the number here:
+
+```attr_to_del = [1, 2]``` #Here I'm deleting the first and second attributes trait_type and value.
+
+6. Run the program. In VsCode there is a "Run Python File" at the top left. Check your files. 
